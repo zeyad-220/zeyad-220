@@ -51,6 +51,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/zeyad-220/zeyad-220/output/snake.svg" alt="Snake animation" />
 
 ###
