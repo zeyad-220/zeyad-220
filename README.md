@@ -47,12 +47,8 @@
 
 <br clear="both">
 
-<img align="right" height="198" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM4b25nZ3JoaXk2a2ZzeW82djh3ZHQzamM1dm92MjgwdmY4cHVndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/zeyad-220/zeyad-220/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="198" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM4b25nZ3JoaXk2a2ZzeW82djh3ZHQzamM1dm92MjgwdmY4cHVndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+</div>
 
 ###
