@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Zeyad and I'm a Computer Technican from Egypt</h2>
+<h2 align="left">Hi 👋! I'm Zeyad Gaber and I'm an IT Technician — Real Estate & Telemarketing Sales Representative - BIS Student from Egypt</h2>
 
 # 💫 About Me:
 
