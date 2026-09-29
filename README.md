@@ -1,5 +1,14 @@
 <h2 align="left">Hi 👋! I'm Zeyad and I'm a Computer Technican from Egypt</h2>
 
+# 💫 About Me:
+
+🔭 I’m currently working on personal tech projects and exploring new ideas<br>
+👯 I’m looking to collaborate on web projects, AI tools, and creative tech ideas<br>
+🤝 I’m looking for help with improving my development skills and building real-world projects<br>
+🌱 I’m currently learning IT Support, System Administration, Networking, AI Tools, and Front-End Development<br>
+💬 Ask me about IT, Web Development, AI, CRM & Sales, Real Estate, or anything tech-related<br>
+⚡ Fun fact: I enjoy planning, organizing ideas, and creating detailed roadmaps almost as much as following them 😄
+
 ###
 
 <div align="left">
